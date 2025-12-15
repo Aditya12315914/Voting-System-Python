@@ -1,0 +1,49 @@
+{
+    "admins": [
+        {
+            "username": "admin",
+            "password": "admin123"
+        }
+    ],
+    "elections": {
+        "Moniter election": {
+            "candidates": [
+                {
+                    "id": "CVIFRV",
+                    "name": "Aditya",
+                    "party": "BJP"
+                },
+                {
+                    "id": "CHQEXF",
+                    "name": "Sonali",
+                    "party": "RJD"
+                }
+            ],
+            "voters": {
+                "VF3ODP": {
+                    "name": "Aditya",
+                    "age": 21,
+                    "voted": false
+                },
+                "VDUQRH": {
+                    "name": "Manjesh",
+                    "age": 34,
+                    "voted": false
+                }
+            },
+            "votes": {
+                "CVIFRV": 0,
+                "CHQEXF": 0
+            },
+            "suggestions": [],
+            "results_published": false
+        },
+        "moniter": {
+            "candidates": [],
+            "voters": {},
+            "votes": {},
+            "suggestions": [],
+            "results_published": false
+        }
+    }
+}
